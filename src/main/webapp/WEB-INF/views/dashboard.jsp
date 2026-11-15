@@ -1,7 +1,7 @@
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ include file="/WEB-INF/views/header.jsp" %>
-<!DOCTYPE html>
+
 
 
     <h1>Bienvenue ${user}</h1>
