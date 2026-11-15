@@ -8,9 +8,9 @@ Si doPost() fait un redirect vers la liste, lorque l'utilisateur appuie sur F5, 
 Le mecanisme s'appele le PRG(post,redirect,get)
 
 Question 3 :
-Avec ${produit.nom} le contenu s'affiche directement sans echappement automatique et on peut l'executer.
-Avec <c:out value="${produit.nom}"/> le script s'affiche comme un text et ne sera pas execute.
-C'est mieux d'utiliser c:out pour eviter les attaques XSS (cross site Scripting)
+Avec`${produit.nom}` le contenu s'affiche directement sans echappement automatique et on peut l'executer.
+Avec `<c:out value="${produit.nom}"/>` le script s'affiche comme un text et ne sera pas execute.
+Il est préferable d'utiliser `<c:out>` pour eviter les attaques XSS (cross site Scripting)
 
 Question 4 : 
 Filtre permet de securise la page en verifiant l'authentification des utilisateurs avant l'accées aux pages protegées, et centralisé les verifications.
