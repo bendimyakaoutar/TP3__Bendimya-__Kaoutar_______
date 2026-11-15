@@ -1,0 +1,26 @@
+!SESSION 2026-11-10 16:33:52.585 -----------------------------------------------
+eclipse.buildId=4.41.0.20260903-0719
+java.version=26.0.2.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=fr_MA
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/bendimyakaoutar/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/bendimyakaoutar/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-10 16:33:55.942
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-10 16:34:05.712
+!MESSAGE Logback config file: /Users/bendimyakaoutar/eclipse-workspace/mon-app/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.201.20260831-2044.xml
+!SESSION 2026-11-10 16:34:18.217 -----------------------------------------------
+eclipse.buildId=4.41.0.20260903-0719
+java.version=26.0.2.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=fr_MA
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/bendimyakaoutar/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/bendimyakaoutar/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-10 16:34:21.461
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-11-10 16:34:25.361
+!MESSAGE Logback config file: /Users/bendimyakaoutar/eclipse-workspace/mon-app/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.201.20260831-2044.xml

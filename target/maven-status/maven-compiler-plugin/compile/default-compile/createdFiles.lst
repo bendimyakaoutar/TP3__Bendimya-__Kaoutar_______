@@ -1,0 +1,8 @@
+com/example/filter/AuthFilter.class
+com/example/web/LogoutServlet.class
+com/example/web/DashboardServlet.class
+com/example/web/ProduitServlet.class
+com/example/web/LoginServlet.class
+com/example/listener/AppInitListener.class
+com/example/model/ProduitDAO.class
+com/example/model/Produit.class

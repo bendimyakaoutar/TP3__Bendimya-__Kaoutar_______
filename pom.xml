@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+ <modelVersion>4.0.0</modelVersion>
+ <groupId>com.example</groupId>
+ <artifactId>mon-app</artifactId>
+ <version>1.0</version>
+ <packaging>war</packaging>
+
+ <dependencies>
+ 
+ <dependency>
+ <groupId>jakarta.servlet</groupId>
+ <artifactId>jakarta.servlet-api</artifactId>
+ <version>6.0.0</version>
+ <scope>provided</scope>
+ </dependency>
+ 
+ 
+ <dependency>
+<groupId>jakarta.servlet.jsp.jstl</groupId>
+<artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
+<version>3.0.0</version>
+</dependency>
+<dependency>
+<groupId>org.glassfish.web</groupId>
+<artifactId>jakarta.servlet.jsp.jstl</artifactId>
+<version>3.0.1</version>
+</dependency>
+
+
+ </dependencies>
+
+
+
+
+
+ <build>
+ <plugins>
+ <plugin>
+ <groupId>org.apache.maven.plugins</groupId>
+ <artifactId>maven-war-plugin</artifactId>
+ <version>3.3.2</version>
+ </plugin>
+ </plugins>
+ </build>
+</project>
+
